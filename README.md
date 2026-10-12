@@ -25,12 +25,9 @@ and building practical projects to expand my technical knowledge.
 
 ### 👨‍💻 Personal Projects
 
-Image Encryption & Steganography
-  A Python project that encrypts text and hides it inside an image.
-
-- AES-256-GCM encryption
-- Password-based key derivation using PBKDF2
-- Least Significant Bit (LSB) steganography
+- **[Secret-Inside-Image-](https://github.com/naifalmutairi11/Secret-Inside-Image-.git)**
+- A Python project that encrypts text and hides it inside an image. 
+  
 
 ### 👥 Team Projects
 
