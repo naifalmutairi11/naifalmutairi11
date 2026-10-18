@@ -39,6 +39,10 @@ Projects developed collaboratively with a team.
 - **[Process Manager](https://github.com/0xFMD/Task-Manager-Reimagined.git)**
   - **My Contribution:** Network management and traffic control on Linux.
   - **Technologies:** Python, Linux, iptables.
+    
+- **[SDCS](https://github.com/m7md-d/SDCS.git)**
+  — **My Contribution:** Hardware design and implementation.
+
   
 
 ---
